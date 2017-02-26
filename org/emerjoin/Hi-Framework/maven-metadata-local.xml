@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.emerjoin</groupId>
+  <artifactId>Hi-Framework</artifactId>
+  <versioning>
+    <versions>
+      <version>2.1.0-beta-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170226174310</lastUpdated>
+  </versioning>
+</metadata>
