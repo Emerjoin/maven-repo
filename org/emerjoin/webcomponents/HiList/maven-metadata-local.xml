@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.emerjoin</groupId>
+  <groupId>org.emerjoin.webcomponents</groupId>
   <artifactId>HiList</artifactId>
   <versioning>
     <versions>
-      <version>1.4-beta-SNAPSHOT</version>
+      <version>1.4.0-beta-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170402074102</lastUpdated>
+    <lastUpdated>20170402074446</lastUpdated>
   </versioning>
 </metadata>
