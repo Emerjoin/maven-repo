@@ -3,10 +3,11 @@
   <groupId>org.emerjoin.arqiva</groupId>
   <artifactId>arqiva-maven-plugin</artifactId>
   <versioning>
-    <latest>1.0.0-SNAPSHOT</latest>
+    <latest>1.0.1-SNAPSHOT</latest>
     <versions>
       <version>1.0.0-SNAPSHOT</version>
+      <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170320192724</lastUpdated>
+    <lastUpdated>20170619162941</lastUpdated>
   </versioning>
 </metadata>
